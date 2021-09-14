@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="results">
+        <item>"Жди удачу"</item>
+        <item>"Будь осторожен"</item>
+        <item>"К любви"</item>
+        <item>"Вы возьмёте меня на работу"</item>
+        <item>"Всё будет хорошо (если возьмёте меня на работу)"</item>
+        <item>"Новое знакомство"</item>
+    </string-array>
+
+
+</resources>
